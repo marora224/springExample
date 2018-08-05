@@ -44,12 +44,12 @@
     <repository>
       <id>spring-releases</id>
       <name>spring-releases</name>
-      <url>http://ec2-54-145-150-130.compute-1.amazonaws.com:8081/nexus/content/repositories/releases/</url>
+      <url>http://ec2-174-129-80-94.compute-1.amazonaws.com:8081/nexus/content/repositories/spring-releases/</url>
     </repository>
     <snapshotRepository>
       <id>spring-snapshots</id>
       <name>spring-snapshots</name>
-      <url>http://ec2-54-145-150-130.compute-1.amazonaws.com:8081/nexus/content/repositories/snapshots/</url>
+      <url>http://ec2-174-129-80-94.compute-1.amazonaws.com:8081/nexus/content/repositories/spring-snapshots/</url>
     </snapshotRepository>
   </distributionManagement>
 </profile>
