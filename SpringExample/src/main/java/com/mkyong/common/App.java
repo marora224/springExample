@@ -15,6 +15,6 @@ public class App
     	 // sysout testing 123
         HelloWorld obj = (HelloWorld) context.getBean("helloBean123");
         obj.printHello();
-        // testing push but not commit
+        // push and commit
     }
 }
